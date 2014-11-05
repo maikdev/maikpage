@@ -1,4 +1,4 @@
 maikpage
 ========
 
-proyecto de pagina personal
+Proyecto de página personal
