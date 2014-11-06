@@ -8,6 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+
     <title>The Galician Team - Development</title>
 
     <!-- Bootstrap Core CSS -->
@@ -44,7 +45,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+                
                 <a class="navbar-brand page-scroll" href="#page-top">The Galician Team</a>
+
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
