@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
 <head>
 
     <meta charset="utf-8">
@@ -9,13 +9,13 @@
     <meta name="author" content="">
 
 
-    <title>The Galician Team - Development</title>
+    <title>The Galician Team - Software Development</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/agency.css" rel="stylesheet">
+    <link href="css/maikpage.css" rel="stylesheet"> 
 
     <!-- Custom Fonts -->
     <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -57,7 +57,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#services">Qué hacemos?</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
@@ -66,10 +66,10 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="#team">Equipo</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#contact">Contacto</a>
                     </li>
                 </ul>
             </div>
@@ -82,9 +82,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To Our Studio!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <div class="intro-lead-in">innovación/imaginación/creatividad</div>
+                <div class="intro-heading">Lo hacemos por ti!</div>
+                <a href="#services" class="page-scroll btn btn-xl">¿Qué necesitas?</a>
             </div>
         </div>
     </header>
@@ -94,8 +94,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Services</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">¿Qué hacemos?</h2>
+                    <h3 class="section-subheading text-muted">Negocio interactivo. Empieza a vender ya. Desarrollos a medida. Low cost.</h3>
                 </div>
             </div>
             <div class="row text-center">
@@ -105,23 +105,23 @@
                         <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">E-Commerce</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">Mantenga su negocio abierto 24 horas y no pare de vender. Bla bla bla, bla bla, bla bla bla.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Responsive Design</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <h4 class="service-heading">Diseños a medida</h4>
+                    <p class="text-muted">Mantenemos su sitio en internet adecuandonos al dispositivo en el que se desee visualizar la informacion.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Web Security</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <h4 class="service-heading">Desarrollo Web</h4>
+                    <p class="text-muted">Creamos su sitio web desde cero y le damos la imagen de marca que desee. Nos adaptamos a sus necesidades. Siempre utilizando las tecnologías mas avanzadas.</p>
                 </div>
             </div>
         </div>
